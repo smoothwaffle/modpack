@@ -15,8 +15,9 @@ https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
 https://www.curseforge.com/minecraft/mc-mods/organics
 https://www.curseforge.com/minecraft/mc-mods/origins-forge
 https://www.curseforge.com/minecraft/mc-mods/origins-plus-plus
-https://www.curseforge.com/minecraft/mc-mods/project-963443
+https://www.curseforge.com/minecraft/mc-mods/clumps
 https://www.curseforge.com/minecraft/mc-mods/rechiseled-create
 https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 https://www.curseforge.com/minecraft/mc-mods/waystones
 https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+optifine is optional http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar&x=970d
